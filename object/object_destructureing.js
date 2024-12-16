@@ -39,6 +39,9 @@ console.log(firstname,age)// this is how we done it -->'rocky 35'
 
 // now we change the propertise of 1st and 2nd user
 
-const  [{firstname:first_username},{age:second_user_age}]=user
+const  [{firstname:first_username},{age:second_user_age}]=user// custom name 
 console.log(first_username,second_user_age)//rocky 26 ***mind it the properties have been changed
 console.log(firstname);
+
+
+
